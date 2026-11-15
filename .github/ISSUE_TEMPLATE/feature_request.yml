@@ -1,0 +1,26 @@
+name: Предложить улучшение
+description: Изменение, которое поможет решать конкретную задачу
+title: '[Идея] '
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: 'Опиши задачу без личной базы, переписки и действующих секретов. Достаточно вымышленного примера.'
+  - type: textarea
+    id: problem
+    attributes:
+      label: Какую задачу сейчас неудобно решать
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Какой результат предлагаешь
+      description: Что изменится для пользователя и как проверить пользу.
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: Как решаешь задачу сейчас
+      description: Необязательный контекст и альтернативы.

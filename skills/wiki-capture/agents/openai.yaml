@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Capture"
+  short_description: "Сохранение выбранного материала и решений"
+  default_prompt: "Используй $wiki-capture и сохрани выбранный материал в канонические страницы Wiki."

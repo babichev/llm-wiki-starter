@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Tone"
+  short_description: "Персональный голос и редактура по примерам"
+  default_prompt: "Используй $wiki-tone и настрой мой tone of voice по этим примерам."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Skill Builder"
+  short_description: "Упаковка повторяемого процесса в навык"
+  default_prompt: "Используй $wiki-skill-builder и преврати эту повторяемую процедуру в переносимый навык."

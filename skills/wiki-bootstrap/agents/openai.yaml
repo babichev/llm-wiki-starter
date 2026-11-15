@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Bootstrap"
+  short_description: "Запуск и адаптация персональной LLM Wiki"
+  default_prompt: "Используй $wiki-bootstrap и создай персональную LLM Wiki по этому комплекту."

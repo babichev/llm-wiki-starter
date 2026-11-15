@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Maintain"
+  short_description: "Обновление знаний из согласованных источников"
+  default_prompt: "Используй $wiki-maintain и обнови Wiki из доступных согласованных источников."

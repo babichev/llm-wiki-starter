@@ -1,0 +1,14 @@
+# Private vault: no secrets or raw snapshots in Git by default
+.env
+.env.*
+*.key
+*.pem
+credentials*
+token*
+secrets*
+raw/**
+!raw/readme.md
+system/state/
+.obsidian/workspace*.json
+.DS_Store
+__pycache__/

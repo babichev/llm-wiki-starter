@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Health"
+  short_description: "Проверка целостности и восстановимости Wiki"
+  default_prompt: "Используй $wiki-health и проверь целостность, свежесть и резервную копию Wiki."

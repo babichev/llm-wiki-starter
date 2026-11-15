@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "owner": "user",
+  "language": "ru",
+  "timezone": null,
+  "vault_root": null,
+  "memory_mode": "ask-on-setup",
+  "sources": [],
+  "automations": [],
+  "backup": {
+    "directory": null,
+    "retention_days": 30,
+    "automatic_deletion": false
+  },
+  "privacy": {
+    "default_access": "private",
+    "public_template_separate": true,
+    "store_credentials": false
+  },
+  "freshness": {
+    "source_scan_max_age_days": 2,
+    "review_interval_days": 30
+  },
+  "publication": {
+    "enabled": false,
+    "visibility": "private",
+    "remote_url": null
+  }
+}
